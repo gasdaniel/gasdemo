@@ -1,6 +1,6 @@
 
 $( function() {
-        var endDate = "October  17, 2024 00:00:00";
+        var endDate = "October  30, 2024 00:00:00";
 
         $('.countdown.simple').countdown({ date: endDate });
 
